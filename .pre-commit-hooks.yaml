@@ -1,6 +1,6 @@
 - id: dco-sign-off
   name: DCO Sign-Off
-  entry: dco-sign-off.py
+  entry: dco-sign-off
   language: python
   stages: [prepare-commit-msg]
   always_run: true
