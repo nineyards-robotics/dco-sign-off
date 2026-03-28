@@ -1,0 +1,8 @@
+[project]
+name = "dco-sign-off"
+version = "1.0.0"
+description = "Pre-commit hook to add DCO Signed-off-by to commit messages"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
